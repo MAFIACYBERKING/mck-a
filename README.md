@@ -23,8 +23,20 @@ Welcome to my profile!</h1>
 </p>
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact%22&theme=dark">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=maroongold">
-<img src="https://github-readme-stats.vercel.app/api?username=&count_private=true&show_icons=true&theme=ads-juicy-fresh">
-<img src="https://github-profile-trophy.vercel.app/?username=&theme=onedark">
+install this tool 
+😇Coded by Md Alamin Chowdhury 
+[=] COMMAND :-
+$ apt update 
+$ apt upgrade -y
+$ pip install requests
+$ pkg install git -y 
+$ pkg install python -y
+$ https://github.com/MAFIACYBERKING/mck-a
+$ cd mck-a
+$ python main.py
+[=] CONTACT info:
+✔✔FB: https://www.facebook.com/Mdalamin54321
+✔✔✔GitHub: https:github.com/HANTER2
+talegram: https://t.me/Mdalamin12345
+🥀😍 Thank You For Using My Tool😍🥀
 </p>
