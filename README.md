@@ -21,7 +21,7 @@ Welcome to my profile!</h1>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html15.svg" height="70" width="70">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/r.svg" height="70" width="70">
 </p>
-<h2 align="center"><u>My Github Stats</u></h2>
+<h2 align="center"><u>Install tool termux commond </u></h2>
 <p align="center">
 install this tool 
 😇Coded by Md Alamin Chowdhury 
