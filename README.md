@@ -1,9 +1,9 @@
-<h1 align="center">Hi visitor, I am .
+<h1 align="center">Hi visitor, I am Alamin
 Welcome to my profile!</h1>
 <h2 align="center"></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Profile%20Views-1.7-blue">
-<img src="https://img.shields.io/badge/Number%20Of%20Codes%20I've%20written--blue"> 
+<img src="https://img.shields.io/badge/Number%20Of%20Codes%20I've%20written-Nice-blue"> 
 </p>
 <h2 align="center"><u>Personal Details</u></h2>
 <p align="center">
